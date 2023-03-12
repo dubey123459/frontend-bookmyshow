@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-bookmyshow/static/css/main.fd14ce34.css",
+    "main.js": "/frontend-bookmyshow/static/js/main.97d344eb.js",
+    "index.html": "/frontend-bookmyshow/index.html",
+    "main.fd14ce34.css.map": "/frontend-bookmyshow/static/css/main.fd14ce34.css.map",
+    "main.97d344eb.js.map": "/frontend-bookmyshow/static/js/main.97d344eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd14ce34.css",
+    "static/js/main.97d344eb.js"
+  ]
+}
